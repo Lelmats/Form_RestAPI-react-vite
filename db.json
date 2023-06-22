@@ -1,0 +1,34 @@
+{
+  "clients": [
+    {
+      "nombre": "Karen Rivera",
+      "empresa": "Codigo Con Juan",
+      "email": "karen@juan.com",
+      "telefono": "138198313",
+      "notas": "lel",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Max Alejandro Rivera Higuera",
+      "empresa": "Lel",
+      "email": "maxalejandrorh@gmail.com",
+      "telefono": "6442003929",
+      "notas": "123",
+      "id": 6
+    }
+  ]
+}
