@@ -1,14 +1,14 @@
 # Form_RestAPI-react-vite-Rest-API-ReactRoutes
 
 # Index:
-![alt text](public/Form_RestAPI.png)
+![INDEX](public/Form_RestAPI.png)
 
 # Create with Validation:
-![alt text](public/Form_RestAPI_Create.png)
+![CreatePNG](public/Form_RestAPI_Create.png)
 
 # Edit with Validation:
-![alt text](public/Form_RestAPI_Edit.png)
+![EditPNG](public/Form_RestAPI_Edit.png)
 
 # RestAPI:
-![alt text](public/Form_RestAPI_api.png)
+![restAPI](public/Form_RestAPI_Api.png)
 
